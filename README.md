@@ -38,7 +38,3 @@ Dieses Repository enthält eine Docker-Konfiguration für die Stable Diffusion W
 
 - [AUTOMATIC1111's Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
-
-## Lizenz
-
-Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
