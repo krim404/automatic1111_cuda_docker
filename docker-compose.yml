@@ -31,3 +31,5 @@ services:
 volumes:
   automatic1111_data:
     external: true
+
+#docker volume create --driver local --opt type=none --opt device=/srv/automatic --opt o=bind automatic1111_data
