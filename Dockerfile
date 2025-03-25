@@ -68,7 +68,7 @@ RUN git clone https://github.com/hnmr293/posex
 RUN git clone https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
 
 # Reactor (Face Swap)
-RUN git clone https://github.com/Gourieff/sd-webui-reactor.git
+RUN git clone https://codeberg.org/Gourieff/sd-webui-reactor.git
 
 # Roop (Face Swap)
 RUN git clone https://github.com/s0md3v/sd-webui-roop.git
